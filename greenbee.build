@@ -3,5 +3,5 @@ projects[] =  drupal
 projects[greenbee_profile][type] = "profile"
 projects[greenbee_profile][download][type] = "git"
 projects[greenbee_profile][download][url] = "git@git.mig5.net:/drupal/profiles/greenbee_profile"
-projects[greenbee_profile][download][branch] = "build_2009101901"
+projects[greenbee_profile][download][branch] = "build_2009101902"
 
