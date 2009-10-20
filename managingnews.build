@@ -1,0 +1,4 @@
+core = 6.x
+projects[] =  drupal
+projects[managingnews][type] = "profile"
+
