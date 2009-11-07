@@ -1,0 +1,6 @@
+core = 6.x
+projects[] =  drupal
+projects[beeetle][type] = "profile"
+projects[beeetle][download][type] = "git"
+projects[beeetle][download][url] = "git@git.mig5.net:/drupal/profiles/beeetle_net"
+
