@@ -1,0 +1,6 @@
+core = 6.x
+projects[] =  drupal
+projects[ixa][type] = "profile"
+projects[ixa][download][type] = "git"
+projects[ixa][download][url] = "miguel@git.mig5.net:/drupal/profiles/ixa"
+
