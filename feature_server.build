@@ -3,4 +3,3 @@ projects[] =  drupal
 projects[feature_server][type] = "profile"
 projects[feature_server][download][type] = "git"
 projects[feature_server][download][url] = "git://git.mig5.net/drupal/profiles/feature_server"
-projects[feature_server][download][branch] = "hacks"
