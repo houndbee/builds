@@ -1,0 +1,5 @@
+core = 6.x
+projects[] =  drupal
+projects[leavesandlotions][type] = "profile"
+projects[leavesandlotions][download][type] = "git"
+projects[leavesandlotions][download][url] = "git://git.mig5.net/drupal/profiles/leavesandlotions"
