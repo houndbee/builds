@@ -1,4 +1,6 @@
+api = 2
 core = 6.x
+
 projects[] =  drupal
 projects[mig5_net][type] = "profile"
 projects[mig5_net][download][type] = "git"
