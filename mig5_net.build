@@ -2,6 +2,4 @@ core = 6.x
 projects[] =  drupal
 projects[mig5_net][type] = "profile"
 projects[mig5_net][download][type] = "git"
-projects[mig5_net][download][url] = "miguel@git.mig5.net:/drupal/profiles/mig5_net"
-;projects[mig5_net][download][branch] = "build_2009100902"
-
+projects[mig5_net][download][url] = "git://github.com/mig5/mig5_net.git"
