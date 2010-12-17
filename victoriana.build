@@ -1,5 +1,7 @@
+api = 2
 core = 6.x
 projects[] =  drupal
+
 projects[victoriana][type] = "profile"
 projects[victoriana][download][type] = "git"
-projects[victoriana][download][url] = "git://git.mig5.net/drupal/profiles/victoriana"
+projects[victoriana][download][url] = "git@github.com:mig5/victoriana.git"
