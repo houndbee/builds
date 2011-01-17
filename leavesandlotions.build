@@ -1,5 +1,6 @@
+api = 2
 core = 6.x
 projects[] =  drupal
 projects[leavesandlotions][type] = "profile"
 projects[leavesandlotions][download][type] = "git"
-projects[leavesandlotions][download][url] = "git://git.mig5.net/drupal/profiles/leavesandlotions"
+projects[leavesandlotions][download][url] = "git://github.com/mig5/leavesandlotions"
