@@ -1,5 +1,7 @@
+api = 2
+
 core = 6.x
-projects[] =  drupal
-projects[openatrium][type] = "profile"
-projects[openatrium][download][type] = "git"
-projects[openatrium][download][url] = "git://github.com/developmentseed/openatrium.git"
+
+projects[atrium-1-0-beta9][type] = "core"
+projects[atrium-1-0-beta9][download][type] = "get"
+projects[atrium-1-0-beta9][download][url] = "http://openatrium.com/sites/openatrium.com/files/atrium_releases/atrium-1-0-beta9.tgz"
