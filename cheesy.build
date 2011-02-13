@@ -1,0 +1,12 @@
+api = 2
+
+core = 6.x
+
+; Core
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "get"
+projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-6.20.tar.gz"
+
+projects[cheesy][type] = "profile"
+projects[cheesy][download][type] = "git"
+projects[cheesy][download[url] = "git@github.com:mig5/cheesy"
