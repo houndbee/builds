@@ -1,0 +1,15 @@
+api = 2
+
+core = 6.x
+
+; Copy of core
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "get"
+projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-6.19.tar.gz"
+
+
+; Copy of mig5_profiler
+projects[mig5_profiler][type] = "profile"
+projects[mig5_profiler][download][type] = "git"
+projects[mig5_profiler][download][url] = "git://github.com/mig5/mig5_profiler.git"
+
