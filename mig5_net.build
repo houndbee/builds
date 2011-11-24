@@ -9,7 +9,6 @@ projects[] = "drupal"
 ; Modules
 projects[ctools]	 = 1.0-rc1
 projects[geshifilter]	 = 1.0
-projects[libraries]	 = 2.0-alpha1
 projects[drupad]	 = 1.6
 projects[mollom]	 = 1.1
 projects[pathauto]	 = 1.0
