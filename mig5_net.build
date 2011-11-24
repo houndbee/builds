@@ -1,7 +1,23 @@
 api = 2
-core = 6.x
 
-projects[] =  drupal
-projects[mig5_net][type] = "profile"
-projects[mig5_net][download][type] = "git"
-projects[mig5_net][download][url] = "git://github.com/mig5/mig5_net.git"
+core = 7.x
+projects[] = "drupal"
+
+
+
+
+; Modules
+projects[ctools]	 = 1.0-rc1
+projects[geshifilter]	 = 1.0
+projects[libraries]	 = 2.0-alpha1
+projects[drupad]	 = 1.6
+projects[mollom]	 = 1.1
+projects[pathauto]	 = 1.0
+projects[token]		 = 1.0-beta7
+projects[piwik]		 = 2.3
+projects[views]		 = 3.0-rc3
+projects[webform]	 = 3.13
+
+
+; Themes
+projects[dartik]	 = 1.2
