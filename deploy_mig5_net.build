@@ -16,4 +16,4 @@ projects[pathauto]	 = 1.0
 projects[token]		 = 1.0-beta7
 projects[piwik]		 = 2.3
 projects[views]		 = 3.0-rc3
-projects[webform]	 = 3.13
+projects[webform]	 = 3.15
