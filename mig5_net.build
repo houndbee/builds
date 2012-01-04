@@ -9,14 +9,13 @@ projects[] = "drupal"
 ; Modules
 projects[ctools]	 = 1.0-rc1
 projects[geshifilter]	 = 1.0
-projects[drupad]	 = 1.6
+projects[drupad]	 = 1.7
 projects[mollom]	 = 1.1
 projects[pathauto]	 = 1.0
 projects[token]		 = 1.0-beta7
 projects[piwik]		 = 2.3
-projects[views]		 = 3.0-rc3
-projects[webform]	 = 3.13
-
+projects[views]		 = 3.0
+projects[webform]	 = 3.15
 
 ; Themes
 projects[dartik]	 = 1.2
