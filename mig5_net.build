@@ -9,6 +9,7 @@ projects[drupal][patch][]  = "https://raw.github.com/gist/1597730/5409abcda3909c
 projects[ctools]	 = 1.0-rc1
 projects[geshifilter]	 = 1.0
 projects[drupad]	 = 1.8
+projects[memcache]	 = 0.2
 projects[mollom]	 = 1.1
 projects[pathauto]	 = 1.0
 projects[token]		 = 1.0-beta7
