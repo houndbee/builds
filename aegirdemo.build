@@ -1,0 +1,15 @@
+core = 7.x
+
+api = 2
+
+; Copy of core
+projects[drupal][version]  = "7.12"
+projects[drupal][patch][]  = "https://raw.github.com/gist/1597730/5409abcda3909c11eeab8db640caee9a38b02e02/gistfile1.txt"
+
+; Copy of aegirdemo_profile
+; This contains another makefile that will recursively fetch
+; our contrib/custom modules, libraries and themes
+projects[aegirdemo_profile][type] = "profile"
+projects[aegirdemo_profile][download][type] = "git"
+projects[aegirdemo_profile][download][url] = "git://github.com/mig5/aegirdemo_profile.git"
+projects[aegirdemo_profile][download][tag] = "2012041601"
