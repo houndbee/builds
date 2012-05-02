@@ -12,4 +12,4 @@ projects[drupal][patch][]  = "https://raw.github.com/gist/1597730/5409abcda3909c
 projects[aegirdemo_profile][type] = "profile"
 projects[aegirdemo_profile][download][type] = "git"
 projects[aegirdemo_profile][download][url] = "git://github.com/mig5/aegirdemo_profile.git"
-projects[aegirdemo_profile][download][tag] = "2012041801"
+projects[aegirdemo_profile][download][tag] = "201204240940_25"
