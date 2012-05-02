@@ -2,8 +2,7 @@ api = 2
 
 core = 7.x
 
-projects[drupal][version]  = "7.12"
-projects[drupal][patch][]  = "https://raw.github.com/gist/1597730/5409abcda3909c11eeab8db640caee9a38b02e02/gistfile1.txt"
+projects[drupal][version]  = "7.13"
 
 ; Modules
 projects[ctools]	 = 1.0
