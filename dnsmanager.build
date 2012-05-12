@@ -1,0 +1,11 @@
+core = 7.x
+
+api = 2
+
+; Copy of core
+projects[drupal][version]  = "7.14"
+
+projects[dns][type] = "module"
+projects[dns][download][type] = "git"
+projects[dns][download][url] = "http://git.drupal.org/project/dns.git"
+projects[dns][download][branch] = "7.x-1.x"
